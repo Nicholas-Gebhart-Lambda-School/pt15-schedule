@@ -5,7 +5,7 @@
 | 6:00  | Careers lecture
 | 6:15  | Sprint 1:1s & `B Week Thursday's` project
 
-* Submit [Sprint Retrospectives](https://forms.lambdaschool.com/sprint-retrospective)
+* Submit [Sprint Retrospectives](https://forms.lambdaschool.com/sprint-review)
 * Submit start of day attendance through your dashboard
 
 ```
