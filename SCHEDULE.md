@@ -37,7 +37,7 @@
 | 8:30 | Students submit module retrospective
 
 * Submit start of day attendance through your dashboard
-* Submit [TL Standup Retrospective](https://airtable.com/shripCmauVlvxNrAT)
+* Submit ~[TL Standup Retrospective](https://airtable.com/shripCmauVlvxNrAT)~ TL standup retrospectives through your dashboard
 * Submit end of day attendance through your dashboard
 
 
@@ -70,7 +70,7 @@
 | 8:30 | Students submit module retrospective
 
 * Submit start of day attendance through your dashboard
-* Submit [TL Standup Retrospective](https://airtable.com/shripCmauVlvxNrAT)
+* Submit ~[TL Standup Retrospective](https://airtable.com/shripCmauVlvxNrAT)~ TL standup retrospectives through your dashboard
 * Submit end of day attendance through your dashboard
 
 
@@ -87,7 +87,7 @@
 | 11:30 | Students submit module retrospective
 
 * Submit start of day attendance through your dashboard
-* Submit [TL Standup Retrospective](https://airtable.com/shripCmauVlvxNrAT)
+* Submit ~[TL Standup Retrospective](https://airtable.com/shripCmauVlvxNrAT)~ TL standup retrospectives through your dashboard
 * Submit end of day attendance through your dashboard
 
 
@@ -119,7 +119,7 @@
 | 9:00 | Support Hours
 
 * Submit start of day attendance through your dashboard
-* Submit [TL Standup Retrospective](https://airtable.com/shripCmauVlvxNrAT)
+* Submit ~[TL Standup Retrospective](https://airtable.com/shripCmauVlvxNrAT)~ TL standup retrospectives through your dashboard
 * Submit end of day attendance through your dashboard
 
 
@@ -152,7 +152,7 @@
 | 9:00 | Support Hours
 
 * Submit start of day attendance through your dashboard
-* Submit [TL Standup Retrospective](https://airtable.com/shripCmauVlvxNrAT)
+* Submit ~[TL Standup Retrospective](https://airtable.com/shripCmauVlvxNrAT)~ TL standup retrospectives through your dashboard
 * Submit end of day attendance through your dashboard
 
 
