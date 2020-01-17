@@ -6,6 +6,7 @@
 | 6:15  | Sprint 1:1s & `B Week Thursday's` project
 
 * Submit [Sprint Retrospectives](https://forms.lambdaschool.com/sprint-review)
+* Review [Module Retrospectives](https://forms.lambdaschool.com/module-review)
 * Submit start of day attendance through your dashboard
 
 ```
@@ -37,6 +38,7 @@
 | 8:30 | Students submit module retrospective
 
 * Submit start of day attendance through your dashboard
+* Review [Module Retrospectives](https://forms.lambdaschool.com/module-review)
 * Submit ~[TL Standup Retrospective](https://airtable.com/shripCmauVlvxNrAT)~ TL standup retrospectives through your dashboard
 * Submit end of day attendance through your dashboard
 
@@ -54,6 +56,7 @@
 | 8:30 | Students submit module retrospective
 | 9:00 | Support Hours
 
+* Review [Module Retrospectives](https://forms.lambdaschool.com/module-review)
 * Submit start of day attendance through your dashboard
 
 
@@ -70,6 +73,7 @@
 | 8:30 | Students submit module retrospective
 
 * Submit start of day attendance through your dashboard
+* Review [Module Retrospectives](https://forms.lambdaschool.com/module-review)
 * Submit ~[TL Standup Retrospective](https://airtable.com/shripCmauVlvxNrAT)~ TL standup retrospectives through your dashboard
 * Submit end of day attendance through your dashboard
 
@@ -87,6 +91,7 @@
 | 11:30 | Students submit module retrospective
 
 * Submit start of day attendance through your dashboard
+* Review [Module Retrospectives](https://forms.lambdaschool.com/module-review)
 * Submit ~[TL Standup Retrospective](https://airtable.com/shripCmauVlvxNrAT)~ TL standup retrospectives through your dashboard
 * Submit end of day attendance through your dashboard
 
@@ -103,6 +108,7 @@
 | 8:30 | Students submit module retrospective
 
 * Submit start of day attendance through your dashboard
+* Review [Module Retrospectives](https://forms.lambdaschool.com/module-review)
 
 
 ```
@@ -119,6 +125,7 @@
 | 9:00 | Support Hours
 
 * Submit start of day attendance through your dashboard
+* Review [Module Retrospectives](https://forms.lambdaschool.com/module-review)
 * Submit ~[TL Standup Retrospective](https://airtable.com/shripCmauVlvxNrAT)~ TL standup retrospectives through your dashboard
 * Submit end of day attendance through your dashboard
 
@@ -152,6 +159,7 @@
 | 9:00 | Support Hours
 
 * Submit start of day attendance through your dashboard
+* Review [Module Retrospectives](https://forms.lambdaschool.com/module-review)
 * Submit ~[TL Standup Retrospective](https://airtable.com/shripCmauVlvxNrAT)~ TL standup retrospectives through your dashboard
 * Submit end of day attendance through your dashboard
 
