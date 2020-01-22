@@ -44,6 +44,7 @@
 
 |  Bianca Severino |
 |---|
+|  Tatiana Z |
 |  Zachary Ballenger |
 |  Ahmed Alsheikh |
 |  Holly Johnson |
@@ -112,6 +113,7 @@
 
 |  Mick Groff |
 |---|
+|  Theresa Lennon |
 |  Joshua Hernandez |
 |  Andre Colon |
 |  Janneth Williams |
@@ -140,6 +142,7 @@
 
 |  Pedro Prieto |
 |---|
+|  Amanda Gunderon |
 |  Ruth Taylor |
 |  Max Senat |
 |  Anthony Encinas |
